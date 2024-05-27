@@ -1,0 +1,2 @@
+-Para teste do site no modo escuro:
+-Se estiver utilizando o Sistema Operacional Windows, pressione a tecla Windows e digite "Ativar o modo escuro em todo o Sistema", ou vá em configurações do sistema e digite a mesma pesquisa;
